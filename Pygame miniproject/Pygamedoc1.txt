@@ -1,0 +1,24 @@
+pygame.cdrom: Functions for accessing CD-ROM drives.
+pygame.color: Functions for working with colors.
+pygame.cursors: Functions for creating custom mouse cursors.
+pygame.display: Functions for managing the display window.
+pygame.draw: Functions for drawing shapes and lines on the screen.
+pygame.event: Functions for handling user input events.
+pygame.font: Functions for rendering text on the screen.
+pygame.image: Functions for loading and manipulating images.
+pygame.joystick: Functions for working with joysticks and game controllers.
+pygame.key: Functions for handling keyboard input.
+pygame.mixer: Functions for loading and playing sound effects and music.
+pygame.mouse: Functions for interacting with the mouse.
+pygame.movie: Functions for playing videos.
+pygame.overlay: Functions for hardware accelerated video playback.
+pygame.pixelarray: Functions for direct pixel access.
+pygame.rect: Functions for manipulating rectangles.
+pygame.scrap: Functions for accessing the clipboard.
+pygame.sndarray: Functions for manipulating sound samples as NumPy arrays.
+pygame.sprite: Functions for managing groups of sprites.
+pygame.surface: Functions for creating and manipulating surfaces.
+pygame.sysfont: Functions for accessing system fonts.
+pygame.time: Functions for managing time-related operations.
+pygame.transform: Functions for transforming and scaling images.
+pygame.version: Information about the Pygame version.
